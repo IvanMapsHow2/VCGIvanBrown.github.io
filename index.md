@@ -1,4 +1,4 @@
-## Positives of Markdown :heavy_plus_sign:
+## :heavy_plus_sign: Positives of Markdown
 - It's easier to code web content by writing Markdown than by directly writing HTML (creating and filling XML tags).  
 
 - When in raw form--Markdown outside of platform that converts Markdown), it generally remains human-readable.  
@@ -6,7 +6,7 @@
 - Many projects--e.g., GitHub repository--use Markdown for documentation.  
 
 
-## Negatives of Markdown :heavy_minus_sign:
+## :heavy_minus_sign: Negatives of Markdown
 - Like pre-Web2.0 HTML and browsers, a Markdown file can present very differently across platforms.  
 
 - It can't do everything that HTML can do.  
