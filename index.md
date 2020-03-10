@@ -16,5 +16,4 @@
 - It's not anywhere close to capabilities of rich content-writing/content-structuring tools.
 
 
-## :arrow_right:
-[More...](subpages/GettingHelp.md)
+## [More...](subpages/GettingHelp.md)
