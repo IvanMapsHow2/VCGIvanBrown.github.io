@@ -18,4 +18,4 @@
 
 ## [More...](subpages/GettingHelp.md)
 
-![topo quad](./images/topo0315.tif "topo quad")
+![topo quad](./images/blah.png "topo quad")
