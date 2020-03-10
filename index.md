@@ -18,4 +18,4 @@
 
 ## [More...](subpages/GettingHelp.md)
 
-<img src="images/topo0315.tif">
+![topo quad](./images/topo0315.tif "topo quad")
