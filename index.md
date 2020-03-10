@@ -16,4 +16,4 @@
 - It's not anywhere close to capabilities of rich content-writing/content-structuring tools.
 
 ## :arrow_right:
-[VCGI](subpages/GettingHelp.md)
+[More...](subpages/GettingHelp.md)
