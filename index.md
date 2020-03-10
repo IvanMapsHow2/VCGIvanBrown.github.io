@@ -18,5 +18,4 @@
 
 ## [More...](subpages/GettingHelp.md)
 
-![topo quad](images/topo0315.tif "topo quad")
-![tractor picture](http://maps.vcgi.vermont.gov/opendata/images/icons/data_themes/Agriculture-Icon.svg "tractor")
+<img src="images/topo0315.tif">
