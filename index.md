@@ -16,6 +16,5 @@
 - It's not anywhere close to capabilities of rich content-writing/content-structuring tools.
 
 
-## [More...](subpages/GettingHelp.md)
+## [More...](./subpages/GettingHelp.md)
 
-![topo quad](./images/blah.png "topo quad")
